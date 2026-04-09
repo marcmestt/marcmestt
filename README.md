@@ -13,5 +13,5 @@ I'm a **Software Engineering Candidate** at Universitat Jaume I (UJI) with a str
 * **Business Web Platform:** Professional-grade web development tailored for enterprise management.
 
 ### 📫 Connect with me
-* [LinkedIn](www.linkedin.com/in/marc-mestres-571662178)
-* [Email](marcmestt@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/marc-mestres-571662178)
+* [Email](mailto:marcmestt@gmail.com)
